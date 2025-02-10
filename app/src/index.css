@@ -1,0 +1,12 @@
+/* index.css */
+body{
+  padding: 50px;
+  background-color: aqua;
+}
+h1{
+  color: gray;
+}
+p{
+  background-color: #888;
+  padding: 10px;
+}
